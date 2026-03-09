@@ -1,0 +1,23 @@
+{
+  "name": "محكمة السيناروهات",
+  "short_name": "المحكمة",
+  "description": "نظام تحليل الشخصيات المتصارعة وإصدار الأحكام النهائية بأسلوب أدبي رفيع.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0705",
+  "theme_color": "#b45309",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/gavel-judge/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/gavel-judge/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
